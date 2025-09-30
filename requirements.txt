@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+pillow
+tqdm
+scipy
+opencv-python-headless
+streamlit
+pyngrok
+twilio
+yagmail
